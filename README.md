@@ -20,7 +20,7 @@ Hi there! I'm a passionate and experienced developer specializing in mobile appl
 - Experimenting with the latest trends in mobile and hardware engineering
 
 ### 📫 Get in Touch:
-- **Email**: [your-ay677607@gmail.com](mailto:ay677607@gmail.com)
+- **Email**: [ay677607@gmail.com](mailto:ay677607@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aman-yadav-6a3a6293/)
 - **Instagram**: [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://www.instagram.com/aman_yadav23/)
 
